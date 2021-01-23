@@ -1,4 +1,4 @@
-# Goal : implement the RungeKutta algorithm (Euler algorithm does not converge)
+# Goal : implement the RungeKutta algorithm (Euler algorithm does converge but propagates too much the error)
 # Library
 
 from math import *
